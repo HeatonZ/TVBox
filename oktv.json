@@ -5,7 +5,9 @@
   "lives":[
     {"name":"电视","type":0,"url":"https://raw.githubusercontent.com/HeatonZ/TVBox/refs/heads/main/live/live.txt","playerType":1},
     {"name":"IPV4","type":0,"url":"https://raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"},
-    {"name":"IPV6","type":0,"url":"https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2}
+    {"name":"IPV6","type":0,"url":"https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","playerType":2},
+    {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2},
+    {"name":"榴芒电视","type":0,"url":"http://106.53.99.30/2025.txt","playerType":1}
   ],
   "sites":[
     {"key":"豆瓣","name":"豆瓣","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
